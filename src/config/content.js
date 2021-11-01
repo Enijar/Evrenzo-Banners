@@ -16,7 +16,7 @@ const content = {
     <h1 class="title">In anaemia of chronic kidney disease (CKD), the treatment landscape is changing</h1>
   `,
   treatment: `
-    <h1 class="title">Follow a new pathway to treat anaemia of CKD…</h1>
+    <h1 class="title smaller">Follow a new pathway to treat anaemia of CKD…</h1>
   `,
   erythropoiesis: `
     <h1 class="title"><span>EVRENZO™</span> harnesses the HIF pathway to stimulate erythropoiesis<sup>1,2</sup> </h1>
@@ -38,7 +38,7 @@ const content = {
     <div class="disclaimer">
         <p>This advert is intended for UK and EU audience only.</p>
         <p>Please note that indications and availability may vary in different countries.</p>
-        <p><a class="underline" href="https://www.medicines.org.uk/emc/product/12835" target="_blank" rel="noreferrer">Refer to your local summary of product characteristics/</a> prescribing information for details.</p>
+        <p><a class="underline" href="https://www.medicines.org.uk/emc/product/12835" target="_blank" rel="noreferrer">Refer to your local summary of product characteristics/</a>prescribing information for details.</p>
     </div>
   `,
 };

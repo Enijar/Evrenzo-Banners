@@ -96,7 +96,7 @@ const config = {
       },
     ],
     skyscraper: [
-      { content: content.intro, timeout: 4000 },
+      // { content: content.intro, timeout: 4000 },
       { content: content.treatment, timeout: 4000 },
       {
         content: `
