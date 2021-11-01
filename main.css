@@ -167,6 +167,10 @@ li:last-child {
   width: max-content;
 }
 
+.title.smaller {
+  font-size: 1.05em;
+}
+
 .highlight-primary {
   color: #007a33;
 }
