@@ -167,10 +167,6 @@ li:last-child {
   width: max-content;
 }
 
-.title.smaller {
-  font-size: 1.05em;
-}
-
 .highlight-primary {
   color: #007a33;
 }
@@ -565,6 +561,10 @@ section[data-slide-index="4"] {
 
 .container-skyscraper #carousel[data-slide-index="1"] {
   background-position: 57.5% 50%;
+}
+
+.container-skyscraper section[data-slide-index="1"] h1 {
+  font-size: 1.05em;
 }
 
 .container-skyscraper aside {
