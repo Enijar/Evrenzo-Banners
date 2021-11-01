@@ -16,7 +16,7 @@ const content = {
     <h1 class="title">In anaemia of chronic kidney disease (CKD), the treatment landscape is changing</h1>
   `,
   treatment: `
-    <h1 class="title smaller">Follow a new pathway to treat anaemia of CKD…</h1>
+    <h1 class="title">Follow a new pathway to treat anaemia of CKD…</h1>
   `,
   erythropoiesis: `
     <h1 class="title"><span>EVRENZO™</span> harnesses the HIF pathway to stimulate erythropoiesis<sup>1,2</sup> </h1>

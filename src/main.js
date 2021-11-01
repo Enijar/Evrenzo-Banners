@@ -15,7 +15,7 @@ function main() {
   const state = {
     autoPlay: window.mode === "production" ? true : false,
     loop: window.mode === "production" ? false : false,
-    slideIndex: window.mode === "production" ? -1 : -1,
+    slideIndex: window.mode === "production" ? -1 : 0,
     ...externalState,
   };
 
