@@ -85,6 +85,8 @@ p:last-child {
   height: var(--height);
   display: grid;
   background-color: #ddd;
+  border: 1px solid #000000;
+  overflow: hidden;
 }
 
 aside {
