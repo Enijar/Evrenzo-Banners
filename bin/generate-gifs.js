@@ -82,8 +82,6 @@ const STORAGE_DIR = path.resolve(__dirname, "..", "storage");
         const output = path.join(STORAGE_DIR, `${type}.gif`);
 
         execSync(`convert -delay 400 -loop 0 ${input} ${output}`);
-
-        execSync(`rm -f ${input}`);
       })
     );
   } catch (err) {
